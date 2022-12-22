@@ -1,5 +1,7 @@
 #!/bin/bash
 
+chmod +x ./array.sh
+
 # Place your code here
 
 f_count=$1
